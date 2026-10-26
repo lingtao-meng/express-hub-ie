@@ -1,3 +1,5 @@
+> 这个仓库已经归档，内容并入了 [supply-chain-operations-analytics/express](https://github.com/lingtao-meng/supply-chain-operations-analytics/tree/main/express)。后续优化在那边做。
+
 # 快递中转场分拣线：线平衡、产能与峰值用工
 
 这是一个 IE 方法案例，不是顺丰的实测数据。时间研究参数是示例，换成你现场测的数据，同一套流程就能出山积图、平衡率、瓶颈、加班和单票成本。
